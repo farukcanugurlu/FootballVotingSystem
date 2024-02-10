@@ -1,0 +1,17 @@
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.csproj.AssemblyReference.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Register.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Login.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.csproj.GenerateResource.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.Properties.Resources.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Main.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\FootballVotingSystem.exe.config
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\FootballVotingSystem.exe
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\FootballVotingSystem.pdb
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.exe
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.pdb
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.Profile.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.AdminLogin.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\FootballVotingSystem.AdminP.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\Logs.mdb

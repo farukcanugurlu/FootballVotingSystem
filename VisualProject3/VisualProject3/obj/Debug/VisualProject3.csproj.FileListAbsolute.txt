@@ -1,0 +1,12 @@
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\VisualProject3.exe.config
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\VisualProject3.exe
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\bin\Debug\VisualProject3.pdb
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.csproj.AssemblyReference.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.csproj.SuggestedBindingRedirects.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Register.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Properties.Resources.resources
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.csproj.GenerateResource.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.exe
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.pdb
+C:\Users\faruk\Desktop\VisualProgramming\VisualProject3\VisualProject3\obj\Debug\VisualProject3.Login.resources
